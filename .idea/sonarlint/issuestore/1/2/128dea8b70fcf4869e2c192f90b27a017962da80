@@ -1,0 +1,9 @@
+
+[
+squid:S106	"9Replace this use of System.out or System.err by a logger.(äö•ßÿÿÿÿÿ8¹³ùëž-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ª×éÖ8³§³ëž-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ð–Ôýÿÿÿÿ8©î‘ëž-
+Fsquid:S1604"(Make this anonymous inner class a lambda(”‚²ò8ÛÎîëž-
+dsquid:UselessImportCheck"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8‡¡´îž-
